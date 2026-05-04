@@ -1,4 +1,5 @@
 **⚙️ HR Analytics: Data Modeling & DAX Implementation**
+
 **📝 Project Overview**
 This repository contains a comprehensive Human Resources Analytics dashboard. While the front-end provides interactive visualizations of employee attrition and satisfaction, the core of this project lies in its robust data model and custom DAX (Data Analysis Expressions) calculations.
 
